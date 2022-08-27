@@ -36,7 +36,7 @@ export const About = () => {
           <p>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
             Rem, similique. Animi, nulla nesciunt excepturi praesentium quia minus magni ut,
-           provident at impedit laborum ipsa soluta aperiam neque, dolorum doloremque culpa.
+           provident at impedit laborum ipsa soluta aperiam neque, dolorum doloremqpa.
           </p>
           <a href="#contact" className="btn btn-primary">Let's Connect</a>
         </div>

@@ -1,7 +1,7 @@
-# Build a React Project from scratch
-  useState Hook
-  React Icons
-  Modern & Responsive Design with CSS3
-  Mulitiple Contact options
-  Create Carousels/slides with Swiper JS
+# Build a React Project from scratch<br>
+ - useState Hook<br>
+ - React Icons<br>
+ - Modern & Responsive Design with CSS3<br>
+ - Mulitiple Contact options<br>
+ - Create Carousels/slides with Swiper JS<br>
  
